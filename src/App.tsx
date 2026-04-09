@@ -43,7 +43,11 @@ const Navbar = () => {
             <a href="#pricing" className="text-sm font-medium text-slate-600 hover:text-brand-blue transition-colors">Цены</a>
             <a href="#faq" className="text-sm font-medium text-slate-600 hover:text-brand-blue transition-colors">FAQ</a>
             <a 
+<<<<<<< HEAD
               href="https://t.me/trophytrust" 
+=======
+              href="https://t.me/TrophyTrust" 
+>>>>>>> 546b205 (first commit)
               target="_blank" 
               rel="noopener noreferrer"
               className="bg-brand-blue text-white px-5 py-2 rounded-full text-sm font-semibold hover:bg-blue-700 transition-all shadow-md shadow-blue-200"
@@ -412,11 +416,19 @@ export default function App() {
                 </div>
                 <div className="flex justify-between items-center">
                   <span className="text-slate-600">Средние</span>
+<<<<<<< HEAD
                   <span className="font-bold text-slate-900">70–150$</span>
                 </div>
                 <div className="flex justify-between items-center">
                   <span className="text-slate-600">Сложные</span>
                   <span className="font-bold text-slate-900">150–300$</span>
+=======
+                  <span className="font-bold text-slate-900">70–110$</span>
+                </div>
+                <div className="flex justify-between items-center">
+                  <span className="text-slate-600">Сложные</span>
+                  <span className="font-bold text-slate-900">110–200$</span>
+>>>>>>> 546b205 (first commit)
                 </div>
                 <div className="pt-2 border-t border-slate-200">
                   <p className="text-brand-blue font-bold text-center text-sm">
